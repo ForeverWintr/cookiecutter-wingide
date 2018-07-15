@@ -1,3 +1,7 @@
 {
-    "project_name": "temp"
+    "project_name": "temp", 
+    "full_name": "Tom Rutherford", 
+    "email": "foreverwintr@gmail.com",
+    "github_username": "ForeverWintr",
+    "version": "0.1.0"
 }
